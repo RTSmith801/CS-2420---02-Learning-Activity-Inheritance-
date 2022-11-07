@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_Learning_Activity_Inheritance",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02_Learning_Activity_Inheritance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_Learning_Activity_Inheritance-Debug-120fa128f110ea6b54ab.json",
+					"name" : "02_Learning_Activity_Inheritance",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Rick/OneDrive/Desktop/Weber State/CS 2420/02 Learning Activity Inheritance/cmake-build-debug",
+		"source" : "C:/Users/Rick/OneDrive/Desktop/Weber State/CS 2420/02 Learning Activity Inheritance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
