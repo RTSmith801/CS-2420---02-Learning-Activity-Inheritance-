@@ -1,3 +1,6 @@
 # ninja log v5
 0	916	6894829939291876	CMakeFiles/02_Learning_Activity_Inheritance.dir/main.cpp.obj	75590cc3f6d409f
 919	1359	6894829943662727	02_Learning_Activity_Inheritance.exe	cf820383787576d0
+2	251	6894866021494447	build.ninja	d43aff658d902ed6
+3	493	6894867647274595	CMakeFiles/02_Learning_Activity_Inheritance.dir/main.cpp.obj	75590cc3f6d409f
+494	958	6894867651852858	02_Learning_Activity_Inheritance.exe	cf820383787576d0
